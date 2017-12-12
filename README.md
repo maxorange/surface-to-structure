@@ -1,5 +1,7 @@
 # Surface-to-Structure
 
+<img src="img/process.png">
+
 To download trained parameters, you need [Git LFS](https://git-lfs.github.com/).
 
 ```
